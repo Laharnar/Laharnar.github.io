@@ -7,6 +7,7 @@ Currently I'm working at Obcina Trbovlje, on escape room project, primarily as l
 I've been working on games in my free time for around 6 years as a primary hobby. I've also worked a bit with web scrapers, windows tools, team management and tutoring Unity and Blender.
 
 For more information i'm avaliable on e-mail: 
+
 marko.laharnar@gmail.com
 
 Here are listed all my major personal game projects.
