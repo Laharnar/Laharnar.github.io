@@ -13,6 +13,8 @@ marko.laharnar@gmail.com
 Here are listed all my major personal game projects.
 
 _To download them, first **click on the link** for a game. It will jump on Google Drive with Windows builds. Click **download all** or **right click on folder** to download all the files and then run exe file._
+![](HowToDownloadFromDrive.PNG)
+
 
 ### Personal favourites
 [DefendTheGouse](https://drive.google.com/open?id=1O8rbvGg8mPnQwxNmgN58a_6dTIjM-XPx)
