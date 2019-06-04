@@ -1,4 +1,3 @@
-# Game development projects
 Hi!
 
 I'm Marko Laharnar, slovenian hobby game developer, occasionaly 2D or 3D artist and a student at FRI, working on my diploma.
