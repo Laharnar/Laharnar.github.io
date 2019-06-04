@@ -11,66 +11,64 @@ marko.laharnar@gmail.com
 
 Here are listed all my major personal game projects.
 
-To download them, first click on the link for Google Drive with Windows builds. Right click on folder to download the build and then run exe file.
+_To download them, first **click on the link** for a game. It will jump on Google Drive with Windows builds. Click **download all** or **right click on folder** to download all the files and then run exe file._
 
-<!DOCTYPE html>
-<html>
-<body>
-  <p> </p>
+### Personal favourites
+[DefendTheGouse](https://drive.google.com/open?id=1O8rbvGg8mPnQwxNmgN58a_6dTIjM-XPx)
+
+[MothershipHell](https://drive.google.com/open?id=1oJgX8Km0Y5yD4Cm9u-8aaYyNDLu-zl_F)
+
+[TurnBasedSystems](https://drive.google.com/open?id=1oP6iQd1VEk8PedNvM4kx69upAAGyKSMg)
+
+[LightTown](https://drive.google.com/open?id=1ejYzFAg2CPrXs5MQSAuMKnYF-ZKed51i)
+
+[SpaceStationConstruction](https://drive.google.com/open?id=1WLdkwkoYIafJA-2NIfnour7WC7w5O7_J)
+
+[X-comzy](https://drive.google.com/open?id=1pHGkzGrvDB6GMEKQUcnfkEtaIfPDpIi1)
+
+### Outfit7 Talent camp or other tests
+[Outfit7 LaneRunner ColorJump](https://drive.google.com/open?id=1N1VFltQ4hfzCijrBntWIv9Fq0_JnCQju)
+
+[Outfit7 SpaceShooter GoldenSpaceship](https://drive.google.com/open?id=1a9tddMZJOijascAsA7eFrjbP_FQquFuK)
+
+I also participated in Talent camp 2017, workshop at Outfit7, in Ljubljana. I was filling a role of a developer, working on a platformer for 2 weeks. Information for game is under NDA.
+
+### Game jams
+Global game jams and Ludum dare game jams in Ljubljana.
+
+[BloodBrawl](https://drive.google.com/open?id=1B3z49I48gm2Hrm0j77EfUZ-XHFm07nGO)
+
+[PotionCommotion](https://drive.google.com/open?id=1Z8xmJx5z3Ul8XeleiH7pRQ9Ti2ghKOxw)
+
+[ExcutionerKit2000](https://drive.google.com/open?id=1Ij_8tz_4wdWu4-VlnbUuo8RerCnzXqbY)
+
+[IcuCut](https://drive.google.com/open?id=1OlpjFQuX_CQ-gNA8nRnsSfLVSpuDwlEX)
+
+[GooShooter](https://drive.google.com/open?id=19rpqzXiAwFXhZFwGyy3lKGH6lh8AMqlY)
+
+### Family projects
+These are projects i've worked on with my family over the course of a few weeks.
+
+[EpicArena](https://drive.google.com/open?id=18e-v6mXPCbmNbPsl7dn1KCvEl3C0Yxko)
+
+[BossBattles_18](https://drive.google.com/open?id=1u-SQaZXVwy-Mqj39OyVIh6m6dxUsyeKs)
+
+[SpaceShooter](https://drive.google.com/open?id=1j8uqswVRO0segA8Myvb0FstddVOsNsWP)
+
+### Other smaller projects and prototypes
+[TurnBasedSystems2](https://drive.google.com/open?id=1S90qJXA0G3QSlf8_v6QHEvBpgUtN6WvB)
+
+[WingmanArenaShooter](https://drive.google.com/open?id=1HykHMzN3UvM9z3WHGzpYwb_iIITu1U7G)
+
+[TotallyAccurateSpaceSim](https://drive.google.com/open?id=1uLeR3CJn5wr4NFN8byUl4IlhH2X4p8Z3)
+
+[TowerDefOne](https://drive.google.com/open?id=1da4AS7keu-ElUam4OguwtAQ67bJJUl4w)
+
+[MarketCrowdSimulation](https://drive.google.com/open?id=1YaZoskX64SPCPDNv5JojwMI1w9k_oirj)
+
+[PlanetAttack](https://drive.google.com/open?id=1NZ6KUxwLnPqMXSBPvK8SJ6k555HvQG1Z)
+
+[PlanetAttack_DelayedTowerShooting](https://drive.google.com/open?id=1fGKBJCn36Ehk8ZjqH_yUFU4FyHbAEcWu)
+
+
   
-  <h3>Personal favourites</h3>
-  
-<a href="https://drive.google.com/open?id=1O8rbvGg8mPnQwxNmgN58a_6dTIjM-XPx" download>DefendTheGouse</a>
-  
-  <a href="https://drive.google.com/open?id=1oJgX8Km0Y5yD4Cm9u-8aaYyNDLu-zl_F" download>MothershipHell</a>
-  
-  <a href="https://drive.google.com/open?id=1oP6iQd1VEk8PedNvM4kx69upAAGyKSMg" download>TurnBasedSystems</a>
-  
-  <a href="https://drive.google.com/open?id=1ejYzFAg2CPrXs5MQSAuMKnYF-ZKed51i" download>LightTown</a>
-  
-  <a href="https://drive.google.com/open?id=1WLdkwkoYIafJA-2NIfnour7WC7w5O7_J" download>SpaceStationConstruction</a>
-  
-  <a href="https://drive.google.com/open?id=1pHGkzGrvDB6GMEKQUcnfkEtaIfPDpIi1" download>X-comzy</a>
-  
-  <h3>Outfit7 Talent camp or other tests</h3>
-  <a href="https://drive.google.com/open?id=1N1VFltQ4hfzCijrBntWIv9Fq0_JnCQju" download>Outfit7 LaneRunner ColorJump</a>
-  <a href="https://drive.google.com/open?id=1a9tddMZJOijascAsA7eFrjbP_FQquFuK" download>Outfit7 SpaceShooter GoldenSpaceship</a>
-  <p>I was also part of Talent camp 2017. We made a platformer game in 2 weeks, as part of a team of 7. I was filling a role of a developer, working on UI, visual effects and animations. Game information is under NDA.</p>
-  
-  <h3>Game jams</h3>
-  <p>Global game jams and Ludum dare game jams in Ljubljana</p>
-  <a href="https://drive.google.com/open?id=1B3z49I48gm2Hrm0j77EfUZ-XHFm07nGO" download>BloodBrawl</a>
-  <a href="https://drive.google.com/open?id=1Z8xmJx5z3Ul8XeleiH7pRQ9Ti2ghKOxw" download>PotionCommotion</a>
-  <a href="https://drive.google.com/open?id=1Ij_8tz_4wdWu4-VlnbUuo8RerCnzXqbY" download>ExcutionerKit2000</a>  
-  <a href="https://drive.google.com/open?id=1OlpjFQuX_CQ-gNA8nRnsSfLVSpuDwlEX" download>IcuCut</a>
-  <a href="https://drive.google.com/open?id=19rpqzXiAwFXhZFwGyy3lKGH6lh8AMqlY" download>GooShooter</a>
-  
-  
-  <h3>Family projects</h3>
-  <p>These are projects i've worked on with my family over the course of a few weeks</p>
-  <a href="https://drive.google.com/open?id=18e-v6mXPCbmNbPsl7dn1KCvEl3C0Yxko" download>EpicArena</a>
-  
-  <a href="https://drive.google.com/open?id=1u-SQaZXVwy-Mqj39OyVIh6m6dxUsyeKs" download>BossBattles_18</a>
-  
-  <a href="https://drive.google.com/open?id=1j8uqswVRO0segA8Myvb0FstddVOsNsWP" download>SpaceShooter</a>
-  
-  
-  <h3>Other smaller projects and prototypes</h3>
-  
-  <a href="https://drive.google.com/open?id=1S90qJXA0G3QSlf8_v6QHEvBpgUtN6WvB" download>TurnBasedSystems2</a>
-  
-  <a href="https://drive.google.com/open?id=1HykHMzN3UvM9z3WHGzpYwb_iIITu1U7G" download>WingmanArenaShooter</a>
-  
-  <a href="https://drive.google.com/open?id=1uLeR3CJn5wr4NFN8byUl4IlhH2X4p8Z3" download>TotallyAccurateSpaceSim</a>
-  
-  <a href="https://drive.google.com/open?id=1da4AS7keu-ElUam4OguwtAQ67bJJUl4w" download>TowerDefOne</a>
-  
-  <a href="https://drive.google.com/open?id=1YaZoskX64SPCPDNv5JojwMI1w9k_oirj" download>MarketCrowdSimulation</a>
-  
-  <a href="https://drive.google.com/open?id=1NZ6KUxwLnPqMXSBPvK8SJ6k555HvQG1Z" download>PlanetAttack</a>
-  
-  <a href="https://drive.google.com/open?id=1fGKBJCn36Ehk8ZjqH_yUFU4FyHbAEcWu" download>PlanetAttack_DelayedTowerShooting</a>
-  
-  
-</body>
-</html>
