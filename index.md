@@ -6,7 +6,7 @@ Currently I'm working at Občina Trbovlje, on new escape room, primarily as lead
 
 I've been working on games in my free time for over 6 years, as a primary hobby. I've also worked a bit with web scrappers, windows tools, team management and tutoring Unity and Blender.
 
-<br />For more information I'm avaliable on e-mail: 
+<br />Contact information: 
 
 marko.laharnar@gmail.com
 
