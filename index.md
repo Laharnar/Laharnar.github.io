@@ -1,10 +1,10 @@
 Hi!
 
-I'm Marko Laharnar, __slovenian hobby game developer__, occasionaly __2D or 3D artist__ and a student at FRI, working on my diploma.
+I'm Marko Laharnar, __slovenian hobby game developer__, __programmer__ and __occasionaly 2D or 3D artist__ and a student at FRI, working on my diploma.
 
-Currently I'm __working at Občina Trbovlje__, on new escape room, primarily as lead programmer working on puzzle design, VR, AR, RaspberryPI and networks.
+Currently I'm working at Občina Trbovlje, on __new escape room__, primarily as lead programmer working on puzzle design, VR, AR, RaspberryPI and networks.
 
-I've been working on games in my free time for over 6 years, as a primary hobby. I've also worked a bit with web scrappers, windows tools, team management and tutoring Unity and Blender.
+I've been working on games in my free time for __over 6 years__, as a primary hobby. I've also worked a bit with web scrappers, windows tools, team management and tutoring Unity and Blender.
 
 <br />You can contact me by E-mail: 
 
@@ -15,9 +15,9 @@ Here are listed all my major personal game projects. Links are connected to Zip 
 Additional help on how to download from Google Drive are on the bottom of the page.
 
 ### Personal favourites - longest or most polished solo projects
-[MothershipHell](https://drive.google.com/open?id=1oJgX8Km0Y5yD4Cm9u-8aaYyNDLu-zl_F)
+*[MothershipHell](https://drive.google.com/open?id=1oJgX8Km0Y5yD4Cm9u-8aaYyNDLu-zl_F)*
 
-[TurnBasedSystems](https://drive.google.com/open?id=1oP6iQd1VEk8PedNvM4kx69upAAGyKSMg)
+*[TurnBasedSystems](https://drive.google.com/open?id=1oP6iQd1VEk8PedNvM4kx69upAAGyKSMg)*
 
 [SpaceStationConstruction](https://drive.google.com/open?id=1WLdkwkoYIafJA-2NIfnour7WC7w5O7_J)
 
@@ -30,14 +30,14 @@ Additional help on how to download from Google Drive are on the bottom of the pa
 ### Outfit7 Talent camp or other tests
 [Outfit7 LaneRunner ColorJump](https://drive.google.com/open?id=1N1VFltQ4hfzCijrBntWIv9Fq0_JnCQju)
 
-[Outfit7 SpaceShooter GoldenSpaceship](https://drive.google.com/open?id=1a9tddMZJOijascAsA7eFrjbP_FQquFuK)
+*[Outfit7 SpaceShooter GoldenSpaceship](https://drive.google.com/open?id=1a9tddMZJOijascAsA7eFrjbP_FQquFuK)*
 
 I also participated in Talent camp 2017, workshop at Outfit7, in Ljubljana. I was filling a role of a developer, working on an infinite platformer for 2 weeks.
 
 ### Game jams
 Global game jams and Ludum dare game jams in Ljubljana.
 
-[BloodBrawl](https://drive.google.com/open?id=1B3z49I48gm2Hrm0j77EfUZ-XHFm07nGO)
+*[BloodBrawl](https://drive.google.com/open?id=1B3z49I48gm2Hrm0j77EfUZ-XHFm07nGO)*
 
 [PotionCommotion](https://drive.google.com/open?id=1Z8xmJx5z3Ul8XeleiH7pRQ9Ti2ghKOxw)
 
@@ -56,7 +56,7 @@ These are projects i've worked on with my family over the course of a few weeks.
 
 [SpaceShooter](https://drive.google.com/open?id=1j8uqswVRO0segA8Myvb0FstddVOsNsWP)
 
-### Other smaller projects and prototypes
+### Other smaller fun projects and prototypes
 [TurnBasedSystems2](https://drive.google.com/open?id=1S90qJXA0G3QSlf8_v6QHEvBpgUtN6WvB)
 
 [WingmanArenaShooter](https://drive.google.com/open?id=1HykHMzN3UvM9z3WHGzpYwb_iIITu1U7G)
