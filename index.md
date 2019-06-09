@@ -7,9 +7,11 @@ Currently I'm working at Občina Trbovlje, on new escape room, primarily as lead
 I've been working on games in my free time for around 6 years as a primary hobby. I've also worked a bit with web scrappers, windows tools, team management and tutoring Unity and Blender.
 
 <br/>
+
 For more information I'm avaliable on e-mail: 
 
 marko.laharnar@gmail.com
+
 <br/>
 
 Here are listed all my major personal game projects. Links are connected to Zip files on Google Drive.
@@ -71,6 +73,8 @@ These are projects i've worked on with my family over the course of a few weeks.
 
 [PlanetAttack_DelayedTowerShooting](https://drive.google.com/open?id=1fGKBJCn36Ehk8ZjqH_yUFU4FyHbAEcWu)
 
+<br/>
+<br/>
 Download on Google Drive
 
 _To download files, first **click on the link** for a game bellow the image. It will jump on Google Drive with zip files containing Windows builds. Click **download all** or **right click on folder** to download all the files and then run exe file._
