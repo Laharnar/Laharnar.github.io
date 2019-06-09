@@ -1,14 +1,14 @@
 Hi!
 
-I'm Marko Laharnar, slovenian hobby game developer, occasionaly 2D or 3D artist and a student at FRI, working on my diploma.
+I'm Marko Laharnar, __slovenian hobby game developer__, occasionaly __2D or 3D artist__ and a student at FRI, working on my diploma.
 
-Currently I'm working at Občina Trbovlje, on new escape room, primarily as lead programmer working on puzzle design, VR, AR, RaspberryPI and networks.
+Currently I'm __working at Občina Trbovlje__, on new escape room, primarily as lead programmer working on puzzle design, VR, AR, RaspberryPI and networks.
 
 I've been working on games in my free time for over 6 years, as a primary hobby. I've also worked a bit with web scrappers, windows tools, team management and tutoring Unity and Blender.
 
-<br />Contact information: 
+<br />You can contact me by E-mail: 
 
-marko.laharnar@gmail.com
+*__marko.laharnar@gmail.com__*
 
 Here are listed all my major personal game projects. Links are connected to Zip files on Google Drive.
 
