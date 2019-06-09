@@ -2,39 +2,39 @@ Hi!
 
 I'm Marko Laharnar, slovenian hobby game developer, occasionaly 2D or 3D artist and a student at FRI, working on my diploma.
 
-Currently I'm working at Občina Trbovlje, on escape room project, primarily as lead programmer working with VR, AR, RaspberryPI and networks.
+Currently I'm working at Občina Trbovlje, on new escape room, primarily as lead programmer working on puzzle design, VR, AR, RaspberryPI and networks.
 
-I've been working on games in my free time for around 6 years as a primary hobby. I've also worked a bit with web scrapers, windows tools, team management and tutoring Unity and Blender.
+I've been working on games in my free time for around 6 years as a primary hobby. I've also worked a bit with web scrappers, windows tools, team management and tutoring Unity and Blender.
 
-For more information i'm avaliable on e-mail: 
+<br/>
+For more information I'm avaliable on e-mail: 
 
 marko.laharnar@gmail.com
+<br/>
 
-Here are listed all my major personal game projects.
+Here are listed all my major personal game projects. Links are connected to Zip files on Google Drive.
 
-_To download them, first **click on the link** for a game. It will jump on Google Drive with Windows builds. Click **download all** or **right click on folder** to download all the files and then run exe file._
-![](HowToDownloadFromDrive.PNG)
+Additional help on how to download from Google Drive are on the bottom of the page.
 
-
-### Personal favourites
+### Personal favourites - longest or most polished solo projects
 [MothershipHell](https://drive.google.com/open?id=1oJgX8Km0Y5yD4Cm9u-8aaYyNDLu-zl_F)
 
 [TurnBasedSystems](https://drive.google.com/open?id=1oP6iQd1VEk8PedNvM4kx69upAAGyKSMg)
 
-[LightTown](https://drive.google.com/open?id=1ejYzFAg2CPrXs5MQSAuMKnYF-ZKed51i)
-
-[DefendTheGouse](https://drive.google.com/open?id=1O8rbvGg8mPnQwxNmgN58a_6dTIjM-XPx)
-
 [SpaceStationConstruction](https://drive.google.com/open?id=1WLdkwkoYIafJA-2NIfnour7WC7w5O7_J)
 
 [X-comzy](https://drive.google.com/open?id=1pHGkzGrvDB6GMEKQUcnfkEtaIfPDpIi1)
+
+[LightTown](https://drive.google.com/open?id=1ejYzFAg2CPrXs5MQSAuMKnYF-ZKed51i)
+
+[DefendTheGouse](https://drive.google.com/open?id=1O8rbvGg8mPnQwxNmgN58a_6dTIjM-XPx)
 
 ### Outfit7 Talent camp or other tests
 [Outfit7 LaneRunner ColorJump](https://drive.google.com/open?id=1N1VFltQ4hfzCijrBntWIv9Fq0_JnCQju)
 
 [Outfit7 SpaceShooter GoldenSpaceship](https://drive.google.com/open?id=1a9tddMZJOijascAsA7eFrjbP_FQquFuK)
 
-I also participated in Talent camp 2017, workshop at Outfit7, in Ljubljana. I was filling a role of a developer, working on a platformer for 2 weeks. Information for game is under NDA.
+I also participated in Talent camp 2017, workshop at Outfit7, in Ljubljana. I was filling a role of a developer, working on an infinite platformer for 2 weeks.
 
 ### Game jams
 Global game jams and Ludum dare game jams in Ljubljana.
@@ -67,11 +67,14 @@ These are projects i've worked on with my family over the course of a few weeks.
 
 [TowerDefOne](https://drive.google.com/open?id=1da4AS7keu-ElUam4OguwtAQ67bJJUl4w)
 
-[MarketCrowdSimulation](https://drive.google.com/open?id=1YaZoskX64SPCPDNv5JojwMI1w9k_oirj)
-
 [PlanetAttack](https://drive.google.com/open?id=1NZ6KUxwLnPqMXSBPvK8SJ6k555HvQG1Z)
 
 [PlanetAttack_DelayedTowerShooting](https://drive.google.com/open?id=1fGKBJCn36Ehk8ZjqH_yUFU4FyHbAEcWu)
+
+Download on Google Drive
+
+_To download files, first **click on the link** for a game bellow the image. It will jump on Google Drive with zip files containing Windows builds. Click **download all** or **right click on folder** to download all the files and then run exe file._
+![](HowToDownloadFromDrive.PNG)
 
 
   
