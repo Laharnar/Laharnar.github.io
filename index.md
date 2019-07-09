@@ -28,11 +28,17 @@ Additional help on how to download from Google Drive are on the bottom of the pa
 [DefendTheGouse](https://drive.google.com/open?id=1O8rbvGg8mPnQwxNmgN58a_6dTIjM-XPx)
 
 ### Outfit7 Talent camp or other tests
+
+I participated in 2 Talent camps 2017 and 2019, at Outfit7, Ekipa2 subsidiary, in Ljubljana. Both in 2017 and 2019, I was filling a role of a developer.
+- 2017 game: infinite platformer made in 2 weeks.
+- 2018 game: fall down to pick items by rotating the map, made in 4 days.
+
+Bellow are tests i've done for Talent camp 2017 and 2018.
+
 [Outfit7 LaneRunner ColorJump](https://drive.google.com/open?id=1N1VFltQ4hfzCijrBntWIv9Fq0_JnCQju)
 
 *[Outfit7 SpaceShooter GoldenSpaceship](https://drive.google.com/open?id=1a9tddMZJOijascAsA7eFrjbP_FQquFuK)*
 
-I also participated in Talent camp 2017, workshop at Outfit7, in Ljubljana. I was filling a role of a developer, working on an infinite platformer for 2 weeks.
 
 ### Game jams
 Global game jams and Ludum dare game jams in Ljubljana.
@@ -57,6 +63,9 @@ These are projects i've worked on with my family over the course of a few weeks.
 [SpaceShooter](https://drive.google.com/open?id=1j8uqswVRO0segA8Myvb0FstddVOsNsWP)
 
 ### Other smaller fun projects and prototypes
+[SurfaceBattles_ww3](https://drive.google.com/open?id=1ff7JTlGh7suehmxpzr5qOxs_bsrEcG9a) 
+added in july 2019
+
 [TurnBasedSystems2](https://drive.google.com/open?id=1S90qJXA0G3QSlf8_v6QHEvBpgUtN6WvB)
 
 [WingmanArenaShooter](https://drive.google.com/open?id=1HykHMzN3UvM9z3WHGzpYwb_iIITu1U7G)
