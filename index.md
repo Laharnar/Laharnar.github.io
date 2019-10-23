@@ -2,11 +2,11 @@ Hi!
 
 I'm Marko Laharnar, __slovenian hobby game developer__, __programmer__ and __occasionaly 2D or 3D artist__ and a student at FRI, working on my diploma.
 
-Currently I'm working at Občina Trbovlje, on __new escape room__, primarily as lead programmer working on puzzle design, VR, AR, RaspberryPI and networks.
+Currently I'm working at Občina Trbovlje, on __new escape room__, primarily as lead programmer working on game design, app design, VR, AR, RaspberryPI networking.
 
 I've been working on games in my free time for __over 6 years__, as a primary hobby. I've also worked a bit with web scrappers, windows tools, team management and tutoring Unity and Blender.
 
-<br />You can contact me by E-mail: 
+<br />You can contact me by E-mail:
 
 *__marko.laharnar@gmail.com__*
 
@@ -31,7 +31,7 @@ Additional help on how to download from Google Drive are on the bottom of the pa
 
 I participated in 2 Talent camps 2017 and 2019, at Outfit7, Ekipa2 subsidiary, in Ljubljana. Both in 2017 and 2019, I was filling a role of a developer.
 - 2017 game: infinite platformer made in 2 weeks.
-- 2018 game: fall down to pick items by rotating the map, made in 4 days.
+- 2019 game: fall down to pick items by rotating the map, made in 4 days.
 
 Bellow are tests i've done for Talent camp 2017 and 2018.
 
@@ -63,8 +63,14 @@ These are projects i've worked on with my family over the course of a few weeks.
 [SpaceShooter](https://drive.google.com/open?id=1j8uqswVRO0segA8Myvb0FstddVOsNsWP)
 
 ### Other smaller fun projects and prototypes
-[SurfaceBattles_ww3](https://drive.google.com/open?id=1ff7JTlGh7suehmxpzr5qOxs_bsrEcG9a) 
-added in july 2019
+
+[CivilizationBalls](https://drive.google.com/open?id=1HK4PT-sgm1z_GJVGzD6tPTEmziAkWg5I)
+October 2019
+"How much can I make in 4-8 hours."
+<img width =410 src=ScreenShotsOfGames/CivilizationBalls_Screenshot.PNG alt="Civilization balls gameplay"></img>
+
+[SurfaceBattles_ww3](https://drive.google.com/open?id=1ff7JTlGh7suehmxpzr5qOxs_bsrEcG9a)
+July 2019
 
 [TurnBasedSystems2](https://drive.google.com/open?id=1S90qJXA0G3QSlf8_v6QHEvBpgUtN6WvB)
 
@@ -84,6 +90,3 @@ Download on Google Drive
 
 _To download files, first **click on the link** for a game bellow the image. It will jump on Google Drive with zip files containing Windows builds. Click **download all** or **right click on folder** to download all the files and then run exe file._
 ![](HowToDownloadFromDrive.PNG)
-
-
-  
