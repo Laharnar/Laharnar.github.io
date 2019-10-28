@@ -66,7 +66,8 @@ These are projects i've worked on with my family over the course of a few weeks.
 
 [CivilizationBalls](https://drive.google.com/open?id=1HK4PT-sgm1z_GJVGzD6tPTEmziAkWg5I)
 October 2019 "How much I can make in 4-8 hours."
-![](ScreenShotsOfGames/CivilizationBalls_Screenshot.PNG =410x)
+
+<img src="http://ScreenShotsOfGames/CivilizationBalls_Screenshot.PNG" width="410" height="410" />
 
 [SurfaceBattles_ww3](https://drive.google.com/open?id=1ff7JTlGh7suehmxpzr5qOxs_bsrEcG9a)
 July 2019
