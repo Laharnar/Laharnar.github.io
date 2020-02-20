@@ -1,18 +1,21 @@
 Hi!
 
-I'm Marko Laharnar, __slovenian hobby game developer__, __programmer__ and __occasionaly 2D or 3D artist__ and a student at FRI, working on my diploma.
+I'm Marko Laharnar, __programmer/game developer entrepreneur__. I offer a wide range of __custom made applications or games__ that are based on Unity(Windows, Android), .NET, including VR and AR based applications. I can also through different contacts accept work for audio production, video production, 2d art, 3d art.
 
-Currently I'm working at Občina Trbovlje, on __new escape room__, primarily as lead programmer working on game design, app design, VR, AR, RaspberryPI networking.
+I've started as __hobby game developer of 6 years__ working in different areas of game development, from 3D, some 2D and mainly programming. By working at Pubfinity I recieved some experience with entrepreneurship which led me to decision to offer my services this way.
 
-I've been working on games in my free time for __over 6 years__, as a primary hobby. I've also worked a bit with web scrappers, windows tools, team management and tutoring Unity and Blender.
+My experince consists first, of working at Pubfinity, working with Vaadin framework as support for ad intergration for their new SDK as junior developer over S.P. in their expanding team.
 
-<br />You can contact me by E-mail:
+And second, from working at Občina Trbovlje/Delavski dom Trbovlje, on __escape room "Pobeg iz rudnika"__, primarily as main programmer working on puzzle design, app development, VR team management, AR, RaspberryPI and server/client development.
+Additionally i've gotten experience with finances, project management and head hunting. I've been part of the team from day 1, from preproduction to the end of the project.
 
-*__marko.laharnar@gmail.com__*
+Lately i've been focusing on improving my development skills, team management, project management and trying to help people expand their skills. What's left of my time, I use on my diploma, application for experimental approach to 2d pixel animation using 3d and vector animation techniques.
 
-Here are listed all my major personal game projects. Links are connected to Zip files on Google Drive.
+E-mail: *__marko.laharnar@gmail.com__*
+github: https://github.com/Laharnar/
+itch.io: https://mlaharnar.itch.io/
 
-Additional help on how to download from Google Drive are on the bottom of the page.
+Here are listed a few of my projects. I update the list every once in a while.
 
 ### Personal favourites - longest or most polished solo projects
 *[MothershipHell](https://drive.google.com/open?id=1oJgX8Km0Y5yD4Cm9u-8aaYyNDLu-zl_F)*
@@ -29,32 +32,41 @@ Additional help on how to download from Google Drive are on the bottom of the pa
 
 ### Outfit7 Talent camp or other tests
 
-I participated in 2 Talent camps 2017 and 2019, at Outfit7, Ekipa2 subsidiary, in Ljubljana. Both in 2017 and 2019, I was filling a role of a developer.
-- 2017 game: infinite platformer made in 2 weeks.
-- 2019 game: fall down to pick items by rotating the map, made in 4 days.
+I participated in 2 Talent camps 2017 and 2019, at Outfit7, Ekipa2 subsidiary, in Ljubljana. Both in 2017 and 2019, I was filling a role of a game developer.
+Outfit7 offers these camps as sort of intern/workshop. A lot of people apply, also from other countries.
+2017, forest-sprit platformer, inspired by Ori and the Blind Forest, made in 2 weeks in team of 7.
+2019, mobile game where you turn the phone to get the falling character through the level, made in 4 days.
 
-Bellow are tests i've done for Talent camp 2017 and 2018.
+Following are two small games I did as part of entry tests for Talent camp 2017 and 2018. Since 2019 tests weren't done.
 
 [Outfit7 LaneRunner ColorJump](https://drive.google.com/open?id=1N1VFltQ4hfzCijrBntWIv9Fq0_JnCQju)
 
-*[Outfit7 SpaceShooter GoldenSpaceship](https://drive.google.com/open?id=1a9tddMZJOijascAsA7eFrjbP_FQquFuK)*
+[Outfit7 SpaceShooter GoldenSpaceship](https://drive.google.com/open?id=1a9tddMZJOijascAsA7eFrjbP_FQquFuK)*
 
 
 ### Game jams
 Global game jams and Ludum dare game jams in Ljubljana.
 
-*[BloodBrawl](https://drive.google.com/open?id=1B3z49I48gm2Hrm0j77EfUZ-XHFm07nGO)*
+2020
+*[SpaceRepair](https://niirb.itch.io/space-repair)*
+
+2019
+*[PepperoniNinja](https://kyrylsamoilenko.itch.io/pepperoni-ninja)*
+
+[BloodBrawl](https://kyrylsamoilenko.itch.io/bloodbrawl)
 
 [PotionCommotion](https://drive.google.com/open?id=1Z8xmJx5z3Ul8XeleiH7pRQ9Ti2ghKOxw)
 
-[ExcutionerKit2000](https://drive.google.com/open?id=1Ij_8tz_4wdWu4-VlnbUuo8RerCnzXqbY)
+2018
+[ExcutionerKit2000](https://ldjam.com/events/ludum-dare/43/executioner-kit-2000)
 
-[IcuCut](https://drive.google.com/open?id=1OlpjFQuX_CQ-gNA8nRnsSfLVSpuDwlEX)
+[IcuCut](https://rokkos.itch.io/icu-cut)
 
 [GooShooter](https://drive.google.com/open?id=19rpqzXiAwFXhZFwGyy3lKGH6lh8AMqlY)
 
+
 ### Family projects
-These are projects i've worked on with my family over the course of a few weeks.
+These are some projects i've worked on with my family over the course of a few weeks.
 
 [EpicArena](https://drive.google.com/open?id=18e-v6mXPCbmNbPsl7dn1KCvEl3C0Yxko)
 
@@ -62,11 +74,12 @@ These are projects i've worked on with my family over the course of a few weeks.
 
 [SpaceShooter](https://drive.google.com/open?id=1j8uqswVRO0segA8Myvb0FstddVOsNsWP)
 
-### Other smaller fun projects and prototypes
+### Other smaller projects and prototypes
 
 [CivilizationBalls](https://drive.google.com/open?id=1HK4PT-sgm1z_GJVGzD6tPTEmziAkWg5I)
-October 2019 "How much I can make in 4-8 hours."
-<img src="https://raw.githubusercontent.com/Laharnar/Laharnar.github.io/master/ScreenShotsOfGames/CivilizationBalls_Screenshot.PNG" width="410" />
+October 2019
+"Testing what how much, what game I can make in 4-8 hours."
+<img width="410" src=ScreenShotsOfGames/CivilizationBalls_Screenshot.PNG alt="Civilization balls gameplay"></img>
 
 [SurfaceBattles_ww3](https://drive.google.com/open?id=1ff7JTlGh7suehmxpzr5qOxs_bsrEcG9a)
 July 2019
@@ -81,11 +94,5 @@ July 2019
 
 [PlanetAttack](https://drive.google.com/open?id=1NZ6KUxwLnPqMXSBPvK8SJ6k555HvQG1Z)
 
-[PlanetAttack_DelayedTowerShooting](https://drive.google.com/open?id=1fGKBJCn36Ehk8ZjqH_yUFU4FyHbAEcWu)
-
 <br/>
 <br/>
-Download on Google Drive
-
-_To download files, first **click on the link** for a game bellow the image. It will jump on Google Drive with zip files containing Windows builds. Click **download all** or **right click on folder** to download all the files and then run exe file._
-![](HowToDownloadFromDrive.PNG)
