@@ -17,7 +17,7 @@ github: https://github.com/Laharnar/
 
 itch.io: https://mlaharnar.itch.io/
 
-</br>
+<br/>
 
 Here are listed a few of my projects. I update the list every once in a while.
 
