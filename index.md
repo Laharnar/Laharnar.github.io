@@ -1,15 +1,10 @@
 Hi!
 
-I'm Marko Laharnar, __programmer/game developer entrepreneur__. I offer a wide range of __custom made applications or games__ that are based on Unity(Windows, Android), .NET, including VR and AR based applications. I can also through different contacts accept work for audio production, video production, 2d art, 3d art.
+I'm Marko Laharnar, __programmer/game developer__.
 
-I've started as __hobby game developer of 6 years__ working in different areas of game development, from 3D, some 2D and mainly programming. By working at Pubfinity I recieved some experience with entrepreneurship which led me to decision to offer my services this way.
+I've started as __hobby game developer in 2013__, in high school, working in different areas of game development, from 3D modeling, some 2D art and mainly programming. 
 
-My experince consists first, of working at Pubfinity, working with Vaadin framework as support for ad intergration for their new SDK as junior developer over S.P. in their expanding team.
-
-And second, from working at Občina Trbovlje/Delavski dom Trbovlje, on __escape room "Pobeg iz rudnika"__, primarily as main programmer working on puzzle design, app development, VR team management, AR, RaspberryPI and server/client development.
-Additionally i've gotten experience with finances, project management and head hunting. I've been part of the team from day 1, from preproduction to the end of the project, where I planned, delivered and supported full products with long term in mind.
-
-Lately i've been focusing on improving my development knowledge, team management, project management and trying to help people expand their skills. What's left of my time, I use on my diploma, application for experimental approach to 2d pixel animation using 3d and vector animation techniques.
+I'm working on game with family, Our cure(https://celestide-games.github.io/, https://www.youtube.com/watch?v=AvhGEi1hmTg)
 
 E-mail: *__marko.laharnar@gmail.com__*
 
