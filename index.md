@@ -2,7 +2,7 @@ Hi!
 
 I'm Marko Laharnar, __programmer/game developer__.
 
-I've started as __hobby game developer in 2013__, in high school, working in different areas of game development, from 3D modeling, some 2D art and mainly programming. 
+I've started as __hobby game developer in 2013__, in high school, working in different areas of game development, from 3D modeling, some 2D art and mainly programming. As software engineer I've worked on escape room, GPS applications for Dewesoft and participated in Talent camp from Outfit7.
 
 I'm working on game with family, Our cure(https://celestide-games.github.io/, https://www.youtube.com/watch?v=AvhGEi1hmTg)
 
